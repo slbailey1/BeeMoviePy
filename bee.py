@@ -1,6 +1,4 @@
 # finished June 18 2019
-
-# I will be rewriting the entire bee movie script in python for no reason.
 import time
 import sys
 def lprint(s):
